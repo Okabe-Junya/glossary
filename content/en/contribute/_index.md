@@ -217,7 +217,7 @@ There are two main reasons why the spell check can fail:
 
 To add new words to the list, follow these steps:
 
-1. In your PR, locate the file "wordlist.txt". 
+1. In your PR, locate the file "content/en/.wordlist.txt".
 2. Click "Edit this file" and add the missing words in alphabetic order. 
 3. Add a commit message and select "Sign off and propose changes".
 
